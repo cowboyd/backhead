@@ -3,6 +3,8 @@
 The "backhead" was where the the gauges and controls sat on the old steam engines. This
 gem removes the tedium of defining rails engine configuration options
 
+![An Engine Backhead](http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/4017_Backhead_20040426.jpg/640px-4017_Backhead_20040426.jpg)
+
 ## Usage
 
 Include backhead into class. You can now define configuration options
